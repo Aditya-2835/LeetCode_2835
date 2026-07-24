@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
