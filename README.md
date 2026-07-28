@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0075-sort-colors) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0283-move-zeroes) |
