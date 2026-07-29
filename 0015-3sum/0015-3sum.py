@@ -8,14 +8,6 @@ class Solution(object):
         res=[]
 
         for i in range(len(nums) - 2):
-            # Skip duplicates for the first element
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
-            
-            # Optimization: If the smallest possible sum with nums[i] > 0, no valid triplet exists
-            if nums[i] > 0:
-                break
-
             j = i + 1
             k = len(nums) - 1
 
