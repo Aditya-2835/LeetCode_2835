@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0904-fruit-into-baskets) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0643-maximum-average-subarray-i) |
@@ -103,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
