@@ -3,7 +3,6 @@ class Solution:
         low=0
         freq={}
         res=0
-        maj=0
 
         for high in range(len(s)):
             freq[s[high]]=freq.get(s[high],0)+1
