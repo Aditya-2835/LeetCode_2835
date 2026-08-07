@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -114,10 +115,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0424-longest-repeating-character-replacement) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
