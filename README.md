@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
