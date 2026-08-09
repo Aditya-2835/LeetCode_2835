@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0904-fruit-into-baskets) |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
