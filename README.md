@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0643-maximum-average-subarray-i) |
@@ -120,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## String
 |  |
