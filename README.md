@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
