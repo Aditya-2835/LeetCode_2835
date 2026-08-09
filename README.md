@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0724-find-pivot-index) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
