@@ -4,7 +4,9 @@ class Solution:
         left=0
 
         for i,n in enumerate(nums):
-            if left==(total-left-n):
+            right=total-left-n
+            
+            if left==right:
                 return i
             
             left+=n
