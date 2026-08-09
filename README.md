@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0202-happy-number) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
