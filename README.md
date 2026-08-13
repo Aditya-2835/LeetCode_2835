@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0234-palindrome-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Aditya-2835/LeetCode_2835/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Sliding Window
 |  |
 | ------- |
