@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -218,4 +220,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0067-add-binary) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
