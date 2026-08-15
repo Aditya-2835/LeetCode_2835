@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0144-binary-tree-preorder-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
@@ -249,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
