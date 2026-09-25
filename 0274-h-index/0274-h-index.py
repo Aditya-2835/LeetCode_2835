@@ -3,7 +3,7 @@ class Solution:
         citations.sort(reverse=True)
 
         for i,val in enumerate(citations):
-            if val<i+1:
+            if val< i+1:
                 return i
 
         return len(citations)
