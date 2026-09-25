@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0274-h-index) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1096-brace-expansion-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
 | ------- |
