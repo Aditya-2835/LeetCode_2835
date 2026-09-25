@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0503-next-greater-element-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0274-h-index) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
