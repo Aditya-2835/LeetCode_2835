@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0075-sort-colors) |
@@ -64,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0045-jump-game-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2835/LeetCode_2835/tree/master/0329-longest-increasing-path-in-a-matrix) |
